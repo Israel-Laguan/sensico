@@ -1,0 +1,2 @@
+#app_content_toolbar{position:fixed;top:50px;width:calc(100% - 200px);border-radius:0!important;z-index:10}@media (max-width:414px){#app_content_toolbar{width:100%}}#app_content_toolbar .ui.menu{border-radius:0}.FormProducto .images-productos{display:flex;flex-wrap:wrap}.FormProducto .images-productos__item{margin-left:1.7rem;margin-bottom:1rem;position:relative;width:120px}.FormProducto .images-productos__item:first-child{margin-left:0}.FormProducto .images-productos__item__actions{position:absolute;top:-5px;right:-10px}
+/*# sourceMappingURL=6.21dd7b1b.chunk.css.map */
